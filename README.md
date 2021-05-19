@@ -1,1 +1,1 @@
-# Python Progrm showing the list_tuple dictionary
+# Python Program showing the list_tuple dictionary
